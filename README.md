@@ -8,6 +8,11 @@ This repository contains curated resources designed to take you from zero to pro
 
 ## 📌 Choose Your Career Path
 
+### 🏗️ Foundations (Start Here)
+- [🧩 Programming Logic & Algorithms](Algorithms-Basics.md)
+- [💻 System Programming](System-Programming.md)
+- [🇬🇧 Technical English for Tech](Technical-English.md)
+
 ### Development & Engineering
 - [🤖 AI Engineer & Machine Learning](AI-Engineer.md)
 - [💻 Frontend Development](Frontend-Dev.md)
@@ -24,6 +29,8 @@ This repository contains curated resources designed to take you from zero to pro
 - [🎨 Graphic Design](Graphic-Design.md)
 - [🎬 Motion Design](Motion-Design.md)
 - [🎥 3D & VFX (Cinema Production)](3D-VFX.md)
+- [🎨 UX Design](UX-Design.md)
+- [🖌️ UI Design](UI-Design.md)
 
 ### Management & Marketing
 - [📋 Product Management](Product-Management.md)
@@ -33,3 +40,5 @@ This repository contains curated resources designed to take you from zero to pro
 
 ---
 "Give instruction to a wise man, and he will be still wiser; teach a just man, and he will increase in learning." - PROVERBS 9:9
+
+---
