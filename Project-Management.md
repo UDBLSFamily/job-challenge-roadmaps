@@ -32,6 +32,3 @@ By the end of this course, you will be able to:
 "Let all things be done decently and in order." - 1 CORINTHIANS 14:40
 
 ---
-•
-nathanbangwa243
----
