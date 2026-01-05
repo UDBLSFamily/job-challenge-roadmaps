@@ -30,6 +30,3 @@ By the end of this course, you will be able to:
 "For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent." - ZEPHANIAH 3:9
 
 ---
-•
-nathanbangwa243
----
