@@ -33,6 +33,7 @@ This repository contains curated resources designed to take you from zero to pro
 - [🖌️ UI Design](UI-Design.md)
 
 ### Management & Marketing
+- [🔄 Agile Development & Project Management](Agile-Development.md)
 - [📋 Product Management](Product-Management.md)
 - [🛒 eCommerce](eCommerce.md)
 - [📱 Community Management](Community-Management.md)
@@ -41,4 +42,7 @@ This repository contains curated resources designed to take you from zero to pro
 ---
 "Give instruction to a wise man, and he will be still wiser; teach a just man, and he will increase in learning." - PROVERBS 9:9
 
+---
+•
+nathanbangwa243
 ---
