@@ -31,6 +31,3 @@ By the end of this course, you will be able to:
 "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding." - PROVERBS 4:7
 
 ---
-•
-nathanbangwa243
----
