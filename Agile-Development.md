@@ -66,6 +66,3 @@ This comprehensive path covers everything from agile culture and Scrum implement
 "Every purpose is established by counsel: and with good advice make war." - PROVERBS 20:18
 
 ---
-•
-nathanbangwa243
----
