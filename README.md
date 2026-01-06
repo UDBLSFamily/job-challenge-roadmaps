@@ -31,6 +31,7 @@ This repository contains curated resources designed to take you from zero to pro
 - [🎥 3D & VFX (Cinema Production)](3D-VFX.md)
 - [🎨 UX Design](UX-Design.md)
 - [🖌️ UI Design](UI-Design.md)
+- [🎮 Game Development](Game-Development.md)
 
 ### Management & Marketing
 - [🔄 Agile Development & Project Management](Agile-Development.md)
