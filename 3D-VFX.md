@@ -4,18 +4,18 @@ To produce world-class cinematic content, one must master 3D environments and vi
 
 ## 📚 Core Curriculum (Step-by-Step)
 
-### 1. Comprehensive Blender Training (The Ultimate Guide)
-- [ ] **Course Title:** Apprendre Blender : La formation gratuite
-  - *Platform:* Alex-Formation (French)
-  - *Duration:* ~8 hours
-  - *Objectives:* A complete and structured foundation to master the software from A to Z with professional pedagogy.
-  - https://www.alex-formation.fr/blender-gratuit
+### 1. Foundations of Blender (Comprehensive Introduction)
+- [ ] **Course Title:** Apprendre les bases de Blender
+  - *Platform:* Udemy (French)
+  - *Duration:* ~2 hours
+  - *Objectives:* Understand the interface, navigation, and the core tools to start creating in 3D without friction.
+  - https://www.udemy.com/course/apprendre-les-bases-de-blender
 
 ### 2. Blender Fundamentals (Complementary)
 - [ ] **Course Title:** Formation Blender pour Débutant (Playlist)
   - *Platform:* Mykol (YouTube - French)
   - *Duration:* ~6 hours
-  - *Objectives:* Learn the interface, object manipulation, edit mode, and rendering basics.
+  - *Objectives:* Master object manipulation, edit mode, and basic rendering techniques.
   - https://www.youtube.com/playlist?list=PLm8shS_Y_S_vsh_P0uS6v_7idU98id_lH
 
 ### 3. Full Project Modeling
@@ -29,7 +29,7 @@ To produce world-class cinematic content, one must master 3D environments and vi
 - [ ] **Course Title:** Maîtriser les lumières et les caméras dans Blender
   - *Platform:* Blender Lounge (French Community)
   - *Duration:* 2 hours
-  - *Objectives:* Understand how to place lights to give a "cinematic" look to your 3D creations.
+  - *Objectives:* Understand how to place lights and cameras to give a "cinematic" look to your 3D creations.
   - https://www.youtube.com/watch?v=t5A-qYQYQW4
 
 ## 🛠️ Learning Objectives
@@ -47,7 +47,7 @@ By the end of this path, you will be able to:
 2. **Project:** Create an "Ancient Relic". Model an object (a sword, a shield, or an ancient pillar) and place it in a setting with dramatic lighting.
 3. **Submission:** Share a final render (PNG/JPG) in the community's tracking channel.
 
-**Total Estimated Duration:** ~20-25 hours of focused learning.
+**Total Estimated Duration:** ~15-20 hours of focused learning.
 
 ---
 "For every house is builded by some man; but he that built all things is God." - HEBREWS 3:4
