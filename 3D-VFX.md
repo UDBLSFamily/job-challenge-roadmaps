@@ -4,43 +4,50 @@ To produce world-class cinematic content, one must master 3D environments and vi
 
 ## 📚 Core Curriculum (Step-by-Step)
 
-### 1. Blender Fundamentals (Official)
-- [ ] **Course Title:** Blender 4.0 Fundamentals
-  - *Platform:* Blender Official (YouTube Playlist)
-  - *Duration:* 5 hours
-  - *Objectives:* Master the interface, navigation, and the core tools of the latest version of Blender.
-  - https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6
+### 1. Comprehensive Blender Training (The Ultimate Guide)
+- [ ] **Course Title:** Apprendre Blender : La formation gratuite
+  - *Platform:* Alex-Formation (French)
+  - *Duration:* ~8 hours
+  - *Objectives:* A complete and structured foundation to master the software from A to Z with professional pedagogy.
+  - https://www.alex-formation.fr/blender-gratuit
 
-### 2. The Donut Series (World Standard for Beginners)
-- [ ] **Course Title:** Blender 4.0 Beginner Tutorial
-  - *Platform:* BlenderGuru
-  - *Duration:* 15 hours
-  - *Objectives:* A complete project-based introduction covering modeling, texturing, geometry nodes, rendering, and basic animation.
-  - https://www.youtube.com/playlist?list=PLjEaoINWiv6_vYv7F_TidS2_p3u0N3fV0
+### 2. Blender Fundamentals (Complementary)
+- [ ] **Course Title:** Formation Blender pour Débutant (Playlist)
+  - *Platform:* Mykol (YouTube - French)
+  - *Duration:* ~6 hours
+  - *Objectives:* Learn the interface, object manipulation, edit mode, and rendering basics.
+  - https://www.youtube.com/playlist?list=PLm8shS_Y_S_vsh_P0uS6v_7idU98id_lH
 
-### 3. Introduction to VFX Pipeline
-- [ ] **Course Title:** VFX for Beginners
-  - *Platform:* CG Matter / Default Cube
-  - *Duration:* 4 hours
-  - *Objectives:* Learn the basics of motion tracking, masking, and compositing 3D elements into real-world footage.
-  - https://www.youtube.com/watch?v=6mN9U9-o3Xo
+### 3. Full Project Modeling
+- [ ] **Course Title:** Créer une scène 3D de A à Z
+  - *Platform:* Pierre Schiller (YouTube - French)
+  - *Duration:* ~3 hours
+  - *Objectives:* Move from theory to practice by creating a complete scene: modeling, lighting, and final rendering.
+  - https://www.youtube.com/watch?v=F0S0wZ-X6YI
+
+### 4. Introduction to Cinematic Rendering
+- [ ] **Course Title:** Maîtriser les lumières et les caméras dans Blender
+  - *Platform:* Blender Lounge (French Community)
+  - *Duration:* 2 hours
+  - *Objectives:* Understand how to place lights to give a "cinematic" look to your 3D creations.
+  - https://www.youtube.com/watch?v=t5A-qYQYQW4
 
 ## 🛠️ Learning Objectives
 
 By the end of this path, you will be able to:
-1. Navigate the 3D workspace and master the Blender shortcuts.
-2. Create complex meshes using modifiers and non-destructive techniques.
-3. Master PDR materials, texturing, and realistic lighting setups using Cycles and Eevee.
-4. Set up virtual cameras and perform high-quality cinematic rendering.
-5. Understand the basics of the VFX pipeline: from tracking to final compositing.
+1. Navigate with ease within the Blender 3D workspace.
+2. Create complex objects using polygonal modeling tools.
+3. Apply realistic textures and materials.
+4. Set up lighting and cameras for high-quality final rendering.
+5. Understand the basics of compositing to integrate visual effects.
 
 ## 📝 Assignment & Validation
 
-1. Complete the Blender Foundations and the "Donut" project.
-2. **Project:** Create a "Ancient Relic". Model a 3D object (e.g., a sword, a shield, or an architectural pillar) and place it in a cinematic environment with atmospheric lighting.
-3. **Submission:** Share a high-resolution render (PNG/JPG) of your scene in the community's tracking channel.
+1. Follow the foundational training and complete the practical exercises.
+2. **Project:** Create an "Ancient Relic". Model an object (a sword, a shield, or an ancient pillar) and place it in a setting with dramatic lighting.
+3. **Submission:** Share a final render (PNG/JPG) in the community's tracking channel.
 
-**Total Estimated Duration:** ~25 hours of focused learning.
+**Total Estimated Duration:** ~20-25 hours of focused learning.
 
 ---
 "For every house is builded by some man; but he that built all things is God." - HEBREWS 3:4
