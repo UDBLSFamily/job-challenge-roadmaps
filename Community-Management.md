@@ -8,8 +8,7 @@ A Community Manager is the bridge between a brand and its community. You will le
 - [ ] **Platform:** OpenClassrooms
 - [ ] **Duration:** Approximately 6 hours
 - [ ] **Status:** Self-paced / Immediate Access
-- [ ] **URL:** https://openclassrooms.com/fr/courses/4531231-decouvrez-le-metier-de-community-manager
-
+- [ ] **URL:** https://openclassrooms.com/fr/courses/6144321-decouvrez-le-metier-de-community-manager
 ## 🛠️ Learning Objectives
 
 By the end of this course, you will be able to:
