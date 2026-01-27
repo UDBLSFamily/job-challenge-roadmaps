@@ -11,6 +11,7 @@ This repository contains curated resources designed to take you from zero to pro
 ### 🏗️ Foundations (Start Here)
 - [🧩 Programming Logic & Algorithms](Algorithms-Basics.md)
 - [💻 System Programming](System-Programming.md)
+- [🐙 Git & GitHub (Version Control)](Git-Github.md)
 - [🇬🇧 Technical English for Tech](Technical-English.md)
 
 ### Development & Engineering
