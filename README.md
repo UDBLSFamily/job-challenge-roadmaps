@@ -30,8 +30,7 @@ This repository contains curated resources designed to take you from zero to pro
 - [🎨 Graphic Design](Graphic-Design.md)
 - [🎬 Motion Design](Motion-Design.md)
 - [🎥 3D & VFX (Cinema Production)](3D-VFX.md)
-- [🎨 UX Design](UX-Design.md)
-- [🖌️ UI Design](UI-Design.md)
+- [🎨 UX Design](UI-UX-Design.md)
 - [🎮 Game Development](Game-Development.md)
 
 ### Management & Marketing
