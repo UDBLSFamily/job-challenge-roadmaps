@@ -37,9 +37,12 @@ This repository contains curated resources designed to take you from zero to pro
 ### Management & Marketing
 - [🔄 Agile Development & Project Management](Agile-Development.md)
 - [📋 Product Management](Product-Management.md)
-- [🛒 eCommerce](eCommerce.md)
 - [📱 Community Management](Community-Management.md)
 - [📈 Digital Marketing](Digital-Marketing.md)
+
+### 🛒 eCommerce & Business Operations
+- [🛒 eCommerce](eCommerce.md)
+- [📦 Supply Chain & Logistics](SupplyChain-Logistics.md)
 
 ---
 "Give instruction to a wise man, and he will be still wiser; teach a just man, and he will increase in learning." - PROVERBS 9:9
