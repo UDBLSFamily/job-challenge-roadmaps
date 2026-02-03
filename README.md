@@ -13,6 +13,7 @@ This repository contains curated resources designed to take you from zero to pro
 - [💻 System Programming](System-Programming.md)
 - [🐙 Git & GitHub (Version Control)](Git-Github.md)
 - [🇬🇧 Technical English for Tech](Technical-English.md)
+- [🌐 Open Source & Community Contribution](Opensource-Contribution.md)
 
 ### Development & Engineering
 - [🤖 AI Engineer & Machine Learning](AI-Engineer.md)
