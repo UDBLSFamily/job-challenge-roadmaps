@@ -12,11 +12,11 @@ Open Source is more than just free code; it's a collaborative philosophy that po
   - https://cognitiveclass.ai/courses/introduction-to-open-source
 
 ### 2. The Art of GitHub Contribution
-- [ ] **Course Title:** How to Contribute to Open Source
+- [ ] **Course Title:** How to Start Your Open Source Journey: A Beginner's Guide to Contributing
   - *Platform:* FreeCodeCamp (Guide)
   - *Duration:* ~3 hours
   - *Objectives:* Learn the step-by-step process of forking, cloning, creating branches, and submitting Pull Requests that get accepted.
-  - https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-blog/
+  - [https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-blog/](https://www.freecodecamp.org/news/how-to-start-your-open-source-journey-beginners-guide/)
 
 ### 3. Finding Your First Project
 - [ ] **Course Title:** Finding Your First Open Source Project
