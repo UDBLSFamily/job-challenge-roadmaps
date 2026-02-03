@@ -32,6 +32,13 @@ Open Source is more than just free code; it's a collaborative philosophy that po
   - *Objectives:* Master the underlying logic of Git to collaborate on massive, distributed codebases efficiently.
   - https://www.udacity.com/course/version-control-with-git--ud123
 
+### 5. Career: From Contributor to Professional
+- [ ] **Course Title:** How to turn Open Source into a Job with Nick Taylor (Podcast #181)
+  - *Platform:* FreeCodeCamp
+  - *Duration:* ~1.5 hours
+  - *Objectives:* Listen to real-world advice on building a professional reputation through Open Source and navigating the job market as a contributor.
+  - [https://www.freecodecamp.org/news/how-to-turn-open-source-into-a-job-podcast/](https://www.freecodecamp.org/news/how-to-turn-open-source-into-a-job-with-nick-taylor-podcast-181/)
+
 ## 🛠️ Learning Objectives
 
 By the end of this path, you will be able to:
