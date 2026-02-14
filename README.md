@@ -17,12 +17,14 @@ This repository contains curated resources designed to take you from zero to pro
 
 ### Development & Engineering
 - [🤖 AI Engineer & Machine Learning](AI-Engineer.md)
+- [🌐 Web Development Full Stack](Web-Development.md)
 - [💻 Frontend Development](Frontend-Dev.md)
 - [🖥️ Backend Development](Backend-Dev.md)
 - [📱 Mobile Development (Kotlin)](Mobile-Dev.md)
 - [⚙️ DevOps](DevOps.md)
 
 ### Data & Security
+- [🗄️ Data Engineering & Management](Data-Management-Engineer.md)
 - [📊 Data Science](Data-Science.md)
 - [🛡️ Cyber Security](Cyber-Security.md)
 - [⛓️ Blockchain](Blockchain.md)
@@ -45,6 +47,6 @@ This repository contains curated resources designed to take you from zero to pro
 - [📦 Supply Chain & Logistics](SupplyChain-Logistics.md)
 
 ---
-"Give instruction to a wise man, and he will be still wiser; teach a just man, and he will increase in learning." - PROVERBS 9:9
+GIVE INSTRUCTION TO A WISE MAN, AND HE WILL BE STILL WISER; TEACH A JUST MAN, AND HE WILL INCREASE IN LEARNING. PROVERBS 9:9
 
 ---
