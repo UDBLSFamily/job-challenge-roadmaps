@@ -1,6 +1,6 @@
 # ⚛️ Quantum Computing (Progressive Approach)
 
-This path is designed to discover the quantum world intuitively before strengthening your knowledge with the necessary theoretical tools.
+This path is designed to discover the quantum world intuitively before strengthening your knowledge with the necessary theoretical tools and practical Python implementation.
 
 ## 📚 Core Curriculum (Step-by-Step)
 
@@ -10,21 +10,28 @@ This path is designed to discover the quantum world intuitively before strengthe
   * **Duration:** about 5 hours
   * **Link:** https://cognitiveclass.ai/courses/introduction-to-quantum-computing
 
-* [ ] **Course Title:** Google Quantum AI Resources
-  * **Platform:** Google Quantum AI
-  * **Duration:** self-paced exploration
-  * **Link:** https://quantumai.google/resources
-
 * [ ] **Course Title:** The Bloch Sphere Visualization
   * **Platform:** TU Delft OpenCourseWare
   * **Duration:** about 4 hours
   * **Link:** https://ocw.tudelft.nl/course-lectures/1-2-3-the-bloch-sphere/
 
-### 2. Immediate Practice (Hands-on)
-* [ ] **Course Title:** Build your first quantum circuit
+* [ ] **Course Title:** Google Quantum AI Resources
+  * **Platform:** Google Quantum AI
+  * **Duration:** self-paced exploration
+  * **Link:** https://quantumai.google/resources
+
+### 2. Practical Quantum Programming with Python
+* [ ] **Course Title:** Quantum Computing with Blueqat
+  * **Platform:** OpenClassrooms (via partnership) or Blueqat SDK
+  * **Duration:** about 10 hours
+  * **Objectives:** Use Python to write simple quantum scripts and execute them on simulators.
+  * https://github.com/Blueqat/Blueqat
+
+* [ ] **Course Title:** Build your first quantum circuit with Qiskit
   * **Platform:** Cognitive Class by IBM
   * **Duration:** about 10 hours
-  * **Link:** https://cognitiveclass.ai/courses/build-your-first-quantum-circuit
+  * **Objectives:** Interface Python with IBM Quantum hardware to run experiments.
+  * https://cognitiveclass.ai/courses/build-your-first-quantum-circuit
 
 ### 3. Mathematical Consolidation
 * [ ] **Course Title:** Introduction to Quantum Mathematics
@@ -56,11 +63,11 @@ This path is designed to discover the quantum world intuitively before strengthe
 
 ## 🛠️ Learning Objectives
 1. Visualize quantum states using the Bloch sphere.
-2. Program real circuits on the IBM Quantum cloud.
+2. Program real circuits using Python libraries like Qiskit and Cirq.
 3. Master the mathematical language necessary to design new algorithms.
 4. Understand the mechanisms used to protect quantum information from noise.
 
-**Total Estimated Duration:** about 100 to 120 hours of focused learning.
+**Total Estimated Duration:** about 110 to 130 hours of focused learning.
 
 ---
 HE COUNTS THE NUMBER OF THE STARS HE CALLS THEM ALL BY NAME. PSALMS 147:4
